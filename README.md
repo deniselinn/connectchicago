@@ -16,7 +16,7 @@ Thanks for your interest in contributing to Connect Chicago! There are many ways
 
 Local contributors can join us in person during [Meetups](http://meetup.com/connectchicago) and [neighborhood participatory design sessions](http://connectchicago.org/about/projects/community-technology-forums/). 
 
-You can join us and contribute online as well, which we will be encouraging during the Mozilla Global Sprint 2017 especially! See more information below. Our regular channels for sharing & co-working online are [Google Docs](https://drive.google.com/drive/u/0/folders/0B4fAD3dmbOYCfkFvOE9Dc1pmQmtWb0ptZjJOUXVXRHZpQS1xTE50S09taG1RdHpSZU1oVVE) & Slack (sign up [Here](https://smartchicago2012.wufoo.com/forms/connect-chicago-contact-form-for-individuals/). 
+You can join us and contribute online as well, which we will be encouraging during the Mozilla Global Sprint 2017 especially! See more information below. Our regular channels for sharing & co-working online are [Google Docs](https://drive.google.com/drive/u/0/folders/0B4fAD3dmbOYCfkFvOE9Dc1pmQmtWb0ptZjJOUXVXRHZpQS1xTE50S09taG1RdHpSZU1oVVE) & Slack (sign up [HERE](https://smartchicago2012.wufoo.com/forms/connect-chicago-contact-form-for-individuals/)). 
 
 ## Participation Guidelines
 
