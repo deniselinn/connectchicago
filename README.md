@@ -2,7 +2,7 @@
 
 This is a GitHub landing page for collaborative community co-working for [Connect Chicago](http://connectchicago.org), a citywide digital inclusion initaitive. We'll be using this page for the [Mozilla Global Sprint 2017](https://mozilla.github.io/global-sprint/).
 
-We're working with nonprofit partners, advocates, and community members in 2017 to identify gaps in access & training resources across the city so we can cobuild & support solutions to fill those gaps. Despite Chicago's promising tech economy, gaps persist. [About 1 in 5 Chicago households still lack access to the Internet](http://www.smartchicagocollaborative.org/an-infographic-on-computers-internet-access-in-chicago-from-2013-2015/). In 2017, we're scanning our ecosystem, centralizing our existing assets and identifying community-driven digital inclusion ideas/solutions. You can join us and contribute regularly in person during [Meetups](http://meetup.com/connectchicago) and [neighborhood participatory design sessions](http://connectchicago.org/about/projects/community-technology-forums/). You can join us and contribute online as well! See more information below. 
+We're working with nonprofit partners, advocates, and community members in 2017 to identify gaps in access & training resources across the city so we can cobuild & support solutions to fill those gaps. Despite Chicago's promising tech economy, gaps persist. [About 1 in 5 Chicago households still lack access to the Internet](http://www.smartchicagocollaborative.org/an-infographic-on-computers-internet-access-in-chicago-from-2013-2015/). In 2017, we're scanning our ecosystem, centralizing our existing assets and identifying community-driven digital inclusion ideas/solutions.
 
 ## Getting Started
 
