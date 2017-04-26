@@ -1,14 +1,14 @@
 # Contributing to Connect Chicago
 
-Thanks for your interest in Connect Chicago. We hope that you'll consider contributing your voice/skills to this digital inclusion work. :tada: 
+Thanks for your interest in Connect Chicago. We hope that you'll consider contributing your voice/skills to this digital inclusion work. :tada: Here's some context:
 
-Connect Chicago is a citywide digital inclusion initaitive. We're working with nonprofit partners, advocates, and community members in 2017 to identify gaps in access & training resources across the city so we can cobuild & support solutions to fill those gaps. Despite Chicago's promising tech economy, gaps persist. About 1 in 5 Chicago households still lack access to the Internet. In 2017, we're scanning our ecosystem, centralizing our existing assets and identifying community-driven digital inclusion ideas/solutions.
+> Connect Chicago is a citywide digital inclusion initaitive. We're working with nonprofit partners, advocates, and community members in 2017 to identify gaps in access & training resources across the city so we can cobuild & support solutions to fill those gaps. In 2017, we're undertaking collaborative work to scan our ecosystem, centralize our existing assets and identify community-driven digital inclusion ideas/solutions.
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
+All are welcome here. Please read our contributor guildelines so you'll know how to not only lend your expertise to this work, but also empower others to do the same. This guide is meant to make it easy for you to get involved. This project aims to be accessible to online AND offline contributors with a wide array of skill sets. 
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+Note that this guide also exists [in this blog post]. We made this design decision because we wanted to meet our contributors where they were and many are not on GitHub, which is perfectly fine! 
 
-If your guide is long, consider adding a table of contents.
+Jump to a section:
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
