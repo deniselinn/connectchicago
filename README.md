@@ -8,7 +8,7 @@ We're working with nonprofit partners, advocates, and community members in 2017 
 
 You can read more about Connect Chicago's missions and work on [our website](http://connectchicago.org). To see community resources we've compiled and collborative notes from our convenings, also see our [Google Folder](https://drive.google.com/drive/u/0/folders/0B4fAD3dmbOYCfkFvOE9Dc1pmQmtWb0ptZjJOUXVXRHZpQS1xTE50S09taG1RdHpSZU1oVVE). 
 
-To get started, we recommend you fill out this [form] (https://smartchicago2012.wufoo.com/forms/connect-chicago-contact-form-for-individuals/) so we can keep in touch and point you to the collaboration channels you're most comfortable using. 
+To get started, we recommend you fill out this [form](https://smartchicago2012.wufoo.com/forms/connect-chicago-contact-form-for-individuals/) so we can keep in touch and point you to the collaboration channels you're most comfortable using. 
 
 ## Contributing
 
