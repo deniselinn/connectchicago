@@ -6,7 +6,7 @@ Thanks for your interest in Connect Chicago. We hope that you'll consider contri
 
 All are welcome here. Please read our contributor guildelines so you'll know how to not only lend your expertise to this work, but also empower others to do the same. This guide is meant to make it easy for you to get involved. This project aims to be accessible to online AND offline contributors with a wide array of skill sets. 
 
-Note that this guide also exists [in this blog post]. We made this design decision because we wanted to meet our contributors where they were and many are not on GitHub, which is perfectly fine! 
+Note that this guide also exists [in this Google Doc](https://docs.google.com/document/d/1i5wNbN9oOoA19fY1Tk0tPcngQqqwVuvK8_offfs3ae8/edit?usp=sharing). We made this design decision because we wanted to meet our contributors where they were and many are not on GitHub, which is perfectly fine! 
 
 Jump to a section:
 
@@ -22,11 +22,9 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
+This section lists the current milestones for increasing collaboration & co-building in local digital inclusion work. See the project’s Canvas here. 
 
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
 
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
 
 ## How to submit changes
 
