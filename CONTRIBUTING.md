@@ -8,14 +8,6 @@ All are welcome here. Please read our contributor guildelines so you'll know how
 
 Note that this guide also exists [in this Google Doc](https://docs.google.com/document/d/1i5wNbN9oOoA19fY1Tk0tPcngQqqwVuvK8_offfs3ae8/edit?usp=sharing). We made this design decision because we wanted to meet our contributors where they were and many are not on GitHub, which is perfectly fine! 
 
-Jump to a section:
-
-* [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
-* [Help us make this process better!](#help-us-make-this-process-better!)
-* [Stay in touch](#stay-in-touch!)
-
 ## Participation guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to dlinn@cct.org.
