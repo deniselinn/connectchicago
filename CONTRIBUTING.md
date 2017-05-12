@@ -22,16 +22,16 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-This section lists the current milestones for increasing collaboration & co-building in local digital inclusion work. See the project’s Canvas here. 
+This section lists the current milestones for increasing collaboration & co-building in local digital inclusion work. Note that we're doing this collaboration work both in person AND online, so our milestones reflect that. For more background,ssee the project’s Canvas [here](https://docs.google.com/presentation/d/1dgHq--VIfnyqiARKoj6CF_MkOsKfEjd6KI3kp1wFKmI/edit#slide=id.p). 
 
 1. Launch in person collaboration event(s) to engage more people with digital inclusion work in Chicago & crowdsource information collection re: digital inclusion assets & needs  
 
 * [Done] Milestone: Plan + host a collaborative Connect Chicago Meetup event April 28, 2017 [Digital Inclusion Asset Mapping](https://www.meetup.com/connectchicago/)  
 * Milestone: Plan + host a participatory community events with various partners  
   * [Done]  [April 22, 2017 at Greater Southwest Development Corporation](http://www.smartchicagocollaborative.org/announcing-the-april-22nd-community-technology-forum-at-greater-southwest-development-corporation/)  
-   * [Pictures](https://flic.kr/s/aHskUBuLzA)  
-   * [Notes](https://docs.google.com/document/d/1s-qN_86UT5bwQMuhL-lhJ6x8P1YOi1G1FfdYGKDPVzA/edit?usp=sharing)
-   * Blog post
+    * [Pictures](https://flic.kr/s/aHskUBuLzA)  
+    * [Notes](https://docs.google.com/document/d/1s-qN_86UT5bwQMuhL-lhJ6x8P1YOi1G1FfdYGKDPVzA/edit?usp=sharing)
+    * Blog post (coming soon!)
   * [May 20, 2017 at Windsor Park Lutheran Church](http://www.smartchicagocollaborative.org/announcing-the-may-20th-community-technology-forum-at-windsor-park-evangelical-lutheran-church/) 
 
 2. Launch online collaborations to engage more people with digital inclusion work in Chicago & crowdsource information collection re: digital inclusion assets & needs
