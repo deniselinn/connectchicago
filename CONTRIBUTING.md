@@ -13,8 +13,8 @@ Jump to a section:
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
 * [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
-* [Communication channels](#communication-channels)
+* [Help us make this process better!](#help-us-make-this-process-better!)
+* [Stay in touch](#stay-in-touch!)
 
 ## Participation guidelines
 
@@ -60,7 +60,7 @@ Why are we using both Google docs and GitHub? Since this particular collaborativ
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-## How to questions/problems
+## Help us make this process better!
 
 Have a question? Have a suggestion for making this process better? Create a new issue or email me directly at dlinn@cct.org. 
 
