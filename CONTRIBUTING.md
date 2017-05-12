@@ -24,29 +24,47 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 This section lists the current milestones for increasing collaboration & co-building in local digital inclusion work. See the project’s Canvas here. 
 
+1. Launch in person collaboration event(s) to engage more people with digital inclusion work in Chicago & crowdsource information collection re: digital inclusion assets & needs  
 
+* [Done] Milestone: Plan + host a collaborative Connect Chicago Meetup event April 28, 2017 [Digital Inclusion Asset Mapping](https://www.meetup.com/connectchicago/)  
+* Milestone: Plan + host a participatory community events with various partners  
+  * [Done]  [April 22, 2017 at Greater Southwest Development Corporation](http://www.smartchicagocollaborative.org/announcing-the-april-22nd-community-technology-forum-at-greater-southwest-development-corporation/)  
+   * [Pictures](https://flic.kr/s/aHskUBuLzA)  
+   * [Notes](https://docs.google.com/document/d/1s-qN_86UT5bwQMuhL-lhJ6x8P1YOi1G1FfdYGKDPVzA/edit?usp=sharing)
+   * Blog post
+  * [May 20, 2017 at Windsor Park Lutheran Church](http://www.smartchicagocollaborative.org/announcing-the-may-20th-community-technology-forum-at-windsor-park-evangelical-lutheran-church/) 
+
+2. Launch online collaborations to engage more people with digital inclusion work in Chicago & crowdsource information collection re: digital inclusion assets & needs
+
+* Milestone: Research different online feedback loops/participation tools to use: forms, annotation tools, social media; choose channels/platforms most usable and useful to our collaborators (digital inclusion advocates)
+* Milestone: Choose one or a combination of tools to catalyze online engagement and ask for input from Chicago residents & advocates on the digital inclusion need, priorities, assets, ideas
+  * Centralized onboarding: [bit.ly/joinconnectchi](bit.ly/joinconnectchi)
+  * Collaboration channels: Slack, [Google Docs](https://docs.google.com/document/d/1cGyplc4Gyi2gqMWyggDiEgTEJwYwfgJgZwQfQ8on7gY/edit#heading=h.kaq4mfmb8ts2), GitHub
+* Milestone: Prepare collaboration channels ([Google Docs](https://docs.google.com/document/d/1cGyplc4Gyi2gqMWyggDiEgTEJwYwfgJgZwQfQ8on7gY/edit#heading=h.kaq4mfmb8ts2), GitHub, Slack) with issues/questions/project needs
+* Milestone: Launch & advertise how people can get involved in Mozilla Sprint 2017
+  * Blog post
+
+3. Gather feedback, improve
+* Keep asking how people how they want to get involved and engage in co-building digital inclusion solutions offline and online
+* Share feedback, react
 
 ## How to submit changes
 
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
+Online contributions are very welcome! Our goal is to make it as easy as possible contribute ideas, content, and questions to Connect Chicago online. 
 
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
- 
-> 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
-> 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
-> 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
+There are two ways to contribute to Connect Chicago work online:
+1. [Google Docs](https://docs.google.com/document/d/1cGyplc4Gyi2gqMWyggDiEgTEJwYwfgJgZwQfQ8on7gY/edit#heading=h.kaq4mfmb8ts2) - contributors can insert text and comments while chatting with other contributors. 
+1. GitHub - contributors can respond to “issues” (you’ll find the same ones on the [Google doc](https://docs.google.com/document/d/1cGyplc4Gyi2gqMWyggDiEgTEJwYwfgJgZwQfQ8on7gY/edit#heading=h.kaq4mfmb8ts2)) or create their own. 
+
+Why are we using both Google docs and GitHub? Since this particular collaborative work isn’t technical and so many of our contributors are not on GitHub, we wanted to make sure there was a home base for collaboration that was familiar to our existing collaboration community: [Google Docs](https://docs.google.com/document/d/1cGyplc4Gyi2gqMWyggDiEgTEJwYwfgJgZwQfQ8on7gY/edit#heading=h.kaq4mfmb8ts2). That being said, if people would like to participate on GitHub or learn how to use GitHub, here is information about how to set up a free GitHub account and sign in. Here are some [instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/) for how to use GitHub. 
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-## How to report bugs
+## How to questions/problems
 
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
+Have a question? Have a suggestion for making this process better? Create a new issue or email me directly at dlinn@cct.org. 
 
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
+## Stay in touch!
 
-> Notice a mistake? Want to propose a working project [LINK TO ISSUE TRACKER]!
-
-## Communication channels
-
-Join our communication channels! The first step is filling out this form. 
+Collaborate, but do stay in touch! You can get in out communication network by filling out [this form](bit.ly/joinconnectchi). 
 
