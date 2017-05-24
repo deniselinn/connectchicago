@@ -24,7 +24,7 @@ This section lists the current milestones for increasing collaboration & co-buil
     * [Pictures](https://flic.kr/s/aHskUBuLzA)  
     * [Notes](https://docs.google.com/document/d/1s-qN_86UT5bwQMuhL-lhJ6x8P1YOi1G1FfdYGKDPVzA/edit?usp=sharing)
     * Blog post (coming soon!)
-  * [May 20, 2017 at Windsor Park Lutheran Church](http://www.smartchicagocollaborative.org/announcing-the-may-20th-community-technology-forum-at-windsor-park-evangelical-lutheran-church/) 
+  * [Done][May 20, 2017 at Windsor Park Lutheran Church](http://www.smartchicagocollaborative.org/announcing-the-may-20th-community-technology-forum-at-windsor-park-evangelical-lutheran-church/) 
 
 2. Launch online collaborations to engage more people with digital inclusion work in Chicago & crowdsource information collection re: digital inclusion assets & needs
 
