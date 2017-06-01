@@ -23,8 +23,10 @@ This section lists the current milestones for increasing collaboration & co-buil
   * [Done]  [April 22, 2017 at Greater Southwest Development Corporation](http://www.smartchicagocollaborative.org/announcing-the-april-22nd-community-technology-forum-at-greater-southwest-development-corporation/)  
     * [Pictures](https://flic.kr/s/aHskUBuLzA)  
     * [Notes](https://docs.google.com/document/d/1s-qN_86UT5bwQMuhL-lhJ6x8P1YOi1G1FfdYGKDPVzA/edit?usp=sharing)
-    * Blog post (coming soon!)
+    * [Blog post](http://www.smartchicagocollaborative.org/documentation-from-the-community-technology-forum-at-greater-southwest-development-corporation/)
   * [Done][May 20, 2017 at Windsor Park Lutheran Church](http://www.smartchicagocollaborative.org/announcing-the-may-20th-community-technology-forum-at-windsor-park-evangelical-lutheran-church/) 
+    * [Pictures](https://www.flickr.com/photos/smartchicagocollaborative/albums/72157684509404985)  
+    * [Notes](https://docs.google.com/document/d/1IUJrFBpwULn9xPTTiPMAhO3WjARQ4Fgq6R7MxHh1Ct0/edit?usp=sharing)
 
 2. Launch online collaborations to engage more people with digital inclusion work in Chicago & crowdsource information collection re: digital inclusion assets & needs
 
@@ -33,8 +35,9 @@ This section lists the current milestones for increasing collaboration & co-buil
   * Centralized onboarding: [bit.ly/joinconnectchi](bit.ly/joinconnectchi)
   * Collaboration channels: Slack, [Google Docs](https://docs.google.com/document/d/1cGyplc4Gyi2gqMWyggDiEgTEJwYwfgJgZwQfQ8on7gY/edit#heading=h.kaq4mfmb8ts2), GitHub
 * Milestone: Prepare collaboration channels ([Google Docs](https://docs.google.com/document/d/1cGyplc4Gyi2gqMWyggDiEgTEJwYwfgJgZwQfQ8on7gY/edit#heading=h.kaq4mfmb8ts2), GitHub, Slack) with issues/questions/project needs
-* Milestone: Launch & advertise how people can get involved in Mozilla Sprint 2017
-  * Blog post
+* [Done] Milestone: Launch & advertise how people can get involved in Mozilla Sprint 2017
+  * [Blog post](http://www.smartchicagocollaborative.org/digital-inclusion-meets-open-leadership-connect-chicago-the-mozilla-global-sprint/)
+  * [Interview](https://medium.com/@MozOpenLeaders/connect-chicago-263444d4db32)
 
 3. Gather feedback, improve
 * Keep asking how people how they want to get involved and engage in co-building digital inclusion solutions offline and online
